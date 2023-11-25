@@ -1,3 +1,6 @@
+### Bu README dosyasındaki amacım redux toolkitin önemli anahtar kelimelerinin açıklanması ve kodlarda daha iyi anlaşılması için yazılmıştır.
+
+
 ## createSlice
 
 yeni reduces ogelerini tanımlamak için kullandığımız bir fonksiyondur, tutmamız gereken değerleri ekleriz. yazılımı ve örneği şu şekildedir:
