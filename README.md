@@ -1,4 +1,4 @@
-### Bu README dosyasındaki amacım redux toolkitin önemli anahtar kelimelerinin açıklanması ve kodlarda daha iyi anlaşılması için yazılmıştır.
+### Bu README dosyasındaki amaç redux toolkitin önemli anahtar kelimelerinin açıklanması ve kodlarda daha iyi anlaşılmasıdır.
 
 
 ## createSlice
